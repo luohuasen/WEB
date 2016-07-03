@@ -10,6 +10,7 @@
    <a href="test/index">测试</a><br>
    <a href="student/list">学生信息</a><br>
    <a href="student/list">版本一</a><br>
+   <a href="student/list">版本二</a><br>
 </div>
 </body>
 </html>
