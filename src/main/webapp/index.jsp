@@ -15,6 +15,8 @@
    <a href="student/list">版本四</a><br>
    <a href="student/list">分支</a><br>
    <a href="student/list">master分支</a><br>
+   <a href="student/list">dev1分支</a><br>
+   <a href="student/list">master分支合并dev1分支，修改冲突成功</a><br>
 </div>
 </body>
 </html>
