@@ -8,19 +8,6 @@
 <body>
 <div align="center">
    <a href="test/index">测试</a><br>
-   <a href="student/list">学生信息</a><br>
-   <a href="student/list">版本一</a><br>
-   <a href="student/list">版本二</a><br>
-   <a href="student/list">版本三</a><br>
-   <a href="student/list">版本四</a><br>
-   <a href="student/list">分支</a><br>
-   <a href="student/list">master分支</a><br>
-   <a href="student/list">dev1分支</a><br>
-   <a href="student/list">master分支合并dev1分支，修改冲突成功</a><br>
-   <a href="student/list">dev2分支</a><br>
-   <a href="student/list">master分支合并dev2分支，修改冲突成功</a><br>
-   <a href="student/list">dev3分支</a><br>
-   <a href="student/list">master分支合并dev3分支，修改冲突成功</a><br>
 </div>
 </body>
 </html>
